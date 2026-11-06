@@ -1,0 +1,4 @@
+scenario,total_fees_actual,total_fees_cf,change_pct,applied_to_uefa_summer_sales_bn
+S1 performance-only pricing,3049.6,3030.970202331791,-0.6108931554370756,-0.06292199501001879
+S2 fees price fame like market values,3049.6,3006.480704675079,-1.413932821514985,-0.14563508061604347
+S3 fame premium grows by half,3049.6,3167.999003003931,3.8824436976630183,0.3998917008592909

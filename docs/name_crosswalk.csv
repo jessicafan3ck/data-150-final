@@ -1,0 +1,130 @@
+source_name,source_file,key,social_match,match_type,reviewed
+Lionel Messi,player_market_values,lionel messi,lionel messi,exact,0
+Cristiano Ronaldo,player_market_values,cristiano ronaldo,cristiano ronaldo,exact,0
+Neymar,player_market_values,neymar,neymar,exact,0
+Luis Suarez,player_market_values,luis suarez,luis suarez,exact,0
+Eden Hazard,player_market_values,eden hazard,eden hazard,exact,0
+Sergio Aguero,player_market_values,sergio aguero,sergio aguero,exact,0
+Robert Lewandowski,player_market_values,robert lewandowski,robert lewandowski,exact,0
+Sergio Ramos,player_market_values,sergio ramos,sergio ramos,exact,0
+Toni Kroos,player_market_values,toni kroos,toni kroos,exact,0
+Luka Modric,player_market_values,luka modric,luka modric,exact,0
+Karim Benzema,player_market_values,karim benzema,karim benzema,exact,0
+Mesut Ozil,player_market_values,mesut ozil,mesut ozil,exact,0
+Kylian Mbappé,player_market_values,kylian mbappe,kylian mbappe,exact,0
+Erling Haaland,player_market_values,erling haaland,erling haaland,exact,0
+Vinicius Jr,player_market_values,vinicius jr,vinicius junior,fuzzy,0
+Jude Bellingham,player_market_values,jude bellingham,jude bellingham,exact,0
+Mohamed Salah,player_market_values,mohamed salah,mohamed salah,exact,0
+Sadio Mane,player_market_values,sadio mane,sadio mane,exact,0
+Kevin De Bruyne,player_market_values,kevin de bruyne,kevin de bruyne,exact,0
+Harry Kane,player_market_values,harry kane,harry kane,exact,0
+Bruno Fernandes,player_market_values,bruno fernandes,bruno fernandes,exact,0
+Phil Foden,player_market_values,phil foden,phil foden,exact,0
+Bukayo Saka,player_market_values,bukayo saka,bukayo saka,exact,0
+Florian Wirtz,player_market_values,florian wirtz,florian wirtz,exact,0
+Pedri,player_market_values,pedri,pedri,exact,0
+Gavi,player_market_values,gavi,gabi,fuzzy,0
+Federico Valverde,player_market_values,federico valverde,fede valverde,fuzzy,0
+Eduardo Camavinga,player_market_values,eduardo camavinga,eduardo camavinga,exact,0
+Aurelien Tchouameni,player_market_values,aurelien tchouameni,aurelien tchouameni,exact,0
+Rodri,player_market_values,rodri,rodrigo,fuzzy,0
+Declan Rice,player_market_values,declan rice,declan rice,exact,0
+Moises Caicedo,player_market_values,moises caicedo,moises caicedo,exact,0
+William Saliba,player_market_values,william saliba,william saliba,exact,0
+Ronald Araujo,player_market_values,ronald araujo,ronald araujo,exact,0
+Pau Cubarsi,player_market_values,pau cubarsi,,none,0
+Antonio Rudiger,player_market_values,antonio rudiger,antonio rudiger,exact,0
+Virgil van Dijk,player_market_values,virgil van dijk,virgil van dijk,exact,0
+Marquinhos,player_market_values,marquinhos,marquinhos,exact,0
+Achraf Hakimi,player_market_values,achraf hakimi,achraf hakimi,exact,0
+Joao Cancelo,player_market_values,joao cancelo,joao cancelo,exact,0
+Trent Alexander-Arnold,player_market_values,trent alexanderarnold,trent alexanderarnold,exact,0
+Theo Hernandez,player_market_values,theo hernandez,theo hernandez,exact,0
+Andy Robertson,player_market_values,andy robertson,andrew robertson,fuzzy,0
+Alphonso Davies,player_market_values,alphonso davies,alphonso davies,exact,0
+Thibaut Courtois,player_market_values,thibaut courtois,,none,0
+Alisson Becker,player_market_values,alisson becker,,none,0
+Ederson,player_market_values,ederson,emerson,fuzzy,0
+Gianluigi Donnarumma,player_market_values,gianluigi donnarumma,,none,0
+Andre Onana,player_market_values,andre onana,jean onana,fuzzy,0
+Lamine Yamal,player_market_values,lamine yamal,,none,0
+Endrick,player_market_values,endrick,,none,0
+Jamal Musiala,player_market_values,jamal musiala,jamal musiala,exact,0
+Désiré Doué,player_market_values,desire doue,,none,0
+Warren Zaire-Emery,player_market_values,warren zaireemery,,none,0
+Arda Guler,player_market_values,arda guler,serdar gurler,fuzzy,0
+Kobbie Mainoo,player_market_values,kobbie mainoo,,none,0
+Cole Palmer,player_market_values,cole palmer,cole palmer,exact,0
+Alejandro Garnacho,player_market_values,alejandro garnacho,alejandro catena,fuzzy,0
+Rodrygo,player_market_values,rodrygo,rodrygo,exact,0
+Nico Williams,player_market_values,nico williams,neco williams,fuzzy,0
+Fermin Lopez,player_market_values,fermin lopez,sergio lopez,fuzzy,0
+Dean Huijsen,player_market_values,dean huijsen,,none,0
+Joao Neves,player_market_values,joao neves,,none,0
+Xavi Simons,player_market_values,xavi simons,xavi simons,exact,0
+Mathys Tel,player_market_values,mathys tel,,none,0
+Estevão Willian,player_market_values,estevao willian,,none,0
+Franco Mastantuono,player_market_values,franco mastantuono,,none,0
+Bernardo Silva,player_market_values,bernardo silva,bernardo silva,exact,0
+Marcus Rashford,player_market_values,marcus rashford,marcus rashford,exact,0
+Martin Odegaard,player_market_values,martin odegaard,martin degaard,fuzzy,0
+Gabriel Martinelli,player_market_values,gabriel martinelli,gabriel martinelli,exact,0
+Heung-min Son,player_market_values,heungmin son,heungmin son,exact,0
+Lautaro Martinez,player_market_values,lautaro martinez,lautaro martinez,exact,0
+Khvicha Kvaratskhelia,player_market_values,khvicha kvaratskhelia,,none,0
+Victor Osimhen,player_market_values,victor osimhen,victor osimhen,exact,0
+Romelu Lukaku,player_market_values,romelu lukaku,romelu lukaku,exact,0
+Dusan Vlahovic,player_market_values,dusan vlahovic,dusan vlahovic,exact,0
+Rasmus Hojlund,player_market_values,rasmus hojlund,,none,0
+Antoine Griezmann,player_market_values,antoine griezmann,antoine griezmann,exact,0
+Joshua Kimmich,player_market_values,joshua kimmich,joshua kimmich,exact,0
+Leon Goretzka,player_market_values,leon goretzka,leon goretzka,exact,0
+Niklas Sule,player_market_values,niklas sule,niklas sule,exact,0
+Matthijs de Ligt,player_market_values,matthijs de ligt,matthijs de ligt,exact,0
+Manuel Neuer,player_market_values,manuel neuer,manuel perez,fuzzy,0
+Memphis Depay,player_market_values,memphis depay,memphis depay,exact,0
+Cristiano Ronaldo,record_transfers,cristiano ronaldo,cristiano ronaldo,exact,0
+Gareth Bale,record_transfers,gareth bale,gareth bale,exact,0
+Luis Suarez,record_transfers,luis suarez,luis suarez,exact,0
+James Rodriguez,record_transfers,james rodriguez,james rodriguez,exact,0
+Gonzalo Higuain,record_transfers,gonzalo higuain,gonzalo higuain,exact,0
+Paul Pogba,record_transfers,paul pogba,paul pogba,exact,0
+Neymar,record_transfers,neymar,neymar,exact,0
+Ousmane Dembele,record_transfers,ousmane dembele,ousmane dembele,exact,0
+Kylian Mbappé,record_transfers,kylian mbappe,kylian mbappe,exact,0
+Philippe Coutinho,record_transfers,philippe coutinho,philippe coutinho,exact,0
+Kepa Arrizabalaga,record_transfers,kepa arrizabalaga,,none,0
+Joao Felix,record_transfers,joao felix,joao felix,exact,0
+Antoine Griezmann,record_transfers,antoine griezmann,antoine griezmann,exact,0
+Matthijs de Ligt,record_transfers,matthijs de ligt,matthijs de ligt,exact,0
+Nicolas Pepe,record_transfers,nicolas pepe,nicolas pepe,exact,0
+Harry Maguire,record_transfers,harry maguire,harry maguire,exact,0
+Kai Havertz,record_transfers,kai havertz,kai havertz,exact,0
+Romelu Lukaku,record_transfers,romelu lukaku,romelu lukaku,exact,0
+Jadon Sancho,record_transfers,jadon sancho,jadon sancho,exact,0
+Erling Haaland,record_transfers,erling haaland,erling haaland,exact,0
+Darwin Nunez,record_transfers,darwin nunez,,none,0
+Antony,record_transfers,antony,antonin,fuzzy,0
+Mykhailo Mudryk,record_transfers,mykhailo mudryk,,none,0
+Enzo Fernandez,record_transfers,enzo fernandez,nacho fernandez,fuzzy,0
+Jude Bellingham,record_transfers,jude bellingham,jude bellingham,exact,0
+Declan Rice,record_transfers,declan rice,declan rice,exact,0
+Riyad Mahrez,record_transfers,riyad mahrez,riyad mahrez,exact,0
+Ruben Neves,record_transfers,ruben neves,ruben neves,exact,0
+Sandro Tonali,record_transfers,sandro tonali,,none,0
+Christopher Nkunku,record_transfers,christopher nkunku,christopher nkunku,exact,0
+Aymeric Laporte,record_transfers,aymeric laporte,aymeric laporte,exact,0
+Moises Caicedo,record_transfers,moises caicedo,moises caicedo,exact,0
+Romeo Lavia,record_transfers,romeo lavia,,none,0
+Harry Kane,record_transfers,harry kane,harry kane,exact,0
+Joao Neves,record_transfers,joao neves,,none,0
+Riccardo Calafiori,record_transfers,riccardo calafiori,riccardo calafiori,exact,0
+Federico Chiesa,record_transfers,federico chiesa,federico chiesa,exact,0
+Dominic Solanke,record_transfers,dominic solanke,dominic solanke,exact,0
+Manuel Ugarte,record_transfers,manuel ugarte,,none,0
+Mathys Tel,record_transfers,mathys tel,,none,0
+Florian Wirtz,record_transfers,florian wirtz,florian wirtz,exact,0
+Viktor Gyokeres,record_transfers,viktor gyokeres,viktor gyokeres,exact,0
+Hugo Ekitike,record_transfers,hugo ekitike,,none,0
+Désiré Doué,record_transfers,desire doue,,none,0
